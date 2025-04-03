@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DC-Code123
+- 👀 I’m interested in Business apps
+- 🌱 I’m currently learning app dev with C++
+- 📫 How to reach me Distinctcode123@gmail.com
