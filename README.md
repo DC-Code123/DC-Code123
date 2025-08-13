@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @DC-Code123
-- 👀 I’m interested in Business apps
-- 🌱 I’m currently learning app dev with C++
-- 📫 How to reach me Distinctcode123@gmail.com
+- 👀 I’m interested in Embedded systems engineering
+- 🌱 I’m currently learning Rust as a tool for Embedded systems
+- 📫 How to reach me: GMAIL: Distinctcode123@gmail.com
